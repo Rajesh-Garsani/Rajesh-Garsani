@@ -114,10 +114,3 @@ A complete e-commerce platform featuring:
 
 ⭐ *Feel free to explore my repositories and connect with me on LinkedIn!*
 
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajesh-Garsani&show_icons=true)
-
