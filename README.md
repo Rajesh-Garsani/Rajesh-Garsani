@@ -1,19 +1,19 @@
 # Hi, I'm Rajesh Kumar 👋
 
-🎯 **Junior Full Stack Developer**  
-💻 Python | Django | Django REST Framework | React.js  
+🎯 **Full Stack Developer**  
+💻 Full Stack Web Developer | Web Scraping & Automation | Python, Django, REST APIs | JavaScript, React, Bootstrap, Tailwind | Git/ GitHub, CI/CD
 📍 Karachi, Pakistan  
 
 📞 +92 349 8536690  
 📧 rkbscs153@gmail.com  
 🔗 [GitHub](https://github.com/Rajesh-Garsani)  
-🔗 [LinkedIn](https://pk.linkedin.com/in/rajesh-kumar-172074362)
+🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-garsani-cs/)
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Junior Full Stack Developer with hands-on experience in **Python, Django, Django REST Framework (DRF), and React.js**, specializing in building **secure, scalable, and production-ready web applications**.
+Full Stack Developer with hands-on experience in **Python, Django, Django REST Framework (DRF), and React.js**, specializing in building **secure, scalable, and production-ready web applications**.
 
 Experienced in developing **RESTful APIs**, implementing **authentication & authorization systems (JWT, session-based auth)**, and working with **relational and NoSQL databases**. Strong understanding of **Django ORM, database design, query optimization**, and **software engineering best practices**.
 
@@ -47,7 +47,7 @@ Skilled in **Git/GitHub workflows, CI/CD pipelines, Docker basics, web scraping,
 - Scrapy
 - Selenium
 
-### 🔹 DevOps & Tools
+### 🔹 Tools
 - Git & GitHub
 - CI/CD Pipelines
 - Docker (Basics)
