@@ -230,9 +230,6 @@ I'm actively seeking opportunities as a **Junior Full Stack Developer**, **Pytho
 💼 **LinkedIn**
 > https://www.linkedin.com/in/rajesh-garsani-cs/
 
-💻 **GitHub**
-> https://github.com/Rajesh-Garsani
-
 📍 Karachi, Pakistan
 
 ---
