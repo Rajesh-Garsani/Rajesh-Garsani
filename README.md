@@ -227,8 +227,7 @@ I'm actively seeking opportunities as a **Junior Full Stack Developer**, **Pytho
 
 📧 **Email:** rkbscs153@gmail.com
 
-💼 **LinkedIn**
-> https://www.linkedin.com/in/rajesh-garsani-cs/
+💼 **LinkedIn:** https://www.linkedin.com/in/rajesh-garsani-cs/
 
 📍 Karachi, Pakistan
 
